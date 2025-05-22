@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ScadsReadingGroup.github.io/sitemap.xml
+Sitemap: https://ScadsReadingGroup.github.io//sitemap.xml
