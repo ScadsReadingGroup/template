@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-papers",
+          title: "Papers",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -81,6 +81,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/al-folio/blog/2025/plotly/";
+          
+        },
+      },{id: "post-learning-to-summarize-from-human-feedback",
+        
+          title: "Learning to Summarize from Human Feedback",
+        
+        description: "This post summarizes the paper &quot;Learning to Summarize from Human Feedback&quot;",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/rlhf-01-intro/";
+          
+        },
+      },{id: "post-graph-of-thoughts",
+        
+          title: "Graph of Thoughts",
+        
+        description: "This post summarizes the paper &quot;Graph of Thoughts&quot;",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/graph-of-thoughts/";
           
         },
       },{id: "post-a-post-with-image-galleries",
